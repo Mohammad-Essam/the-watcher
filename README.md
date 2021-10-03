@@ -1,5 +1,5 @@
 
-# Detum
+# Datum2.0
 # The Team
 ### Team Members
 * Team Leader :  Mohammad Essam Mohammad
@@ -39,7 +39,7 @@ and  each class of object has a different setup and different regions
 **SSD_Mobilenet model**: because it's really fast and could work in real-time with a good frame rate.
 **Constraints of the used technologies**:
 the pretrained model we use. is trained on  20 classes only. 
-in contrary to pytoch ssdlite320_mobilenet_v3_fpn model that contains 91 different class. 
+in contrary to pytoch ssdlite320_mobilenet_v3_large model that contains 91 different class. 
 but the issue with pytorch is that it's heavier on our machine.
 ## Methodology 
 
